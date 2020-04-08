@@ -1,0 +1,180 @@
+body {
+  font-family: "Open Sans", Arial, sans-serif;
+  color:rgba(0, 0, 0, 0.9);
+}
+
+/*.logo{
+  height:10rem;
+  width:10rem;
+}*/
+.container-fluid {
+  padding: 0 10% 0;
+}
+
+.logo{
+  width:11.25rem;
+}
+
+.nav-link{
+  color:rgba(0, 0, 0, 0.9) !important;
+  padding-left:1rem !important;
+  padding-right:1rem !important;
+  font-weight: 700;
+  font-size: 0.875rem;
+}
+
+.page-title{
+  background-image: url(../Images/background.jpg);
+  height:12.5rem;
+  color:#fff;
+  text-align: center;
+  position: relative;
+}
+.page-title-center-home{
+  top: 35%;
+  left:35%;
+  display:inline-block;
+  position:absolute;
+  margin:auto;
+  font-weight:700;
+  font-size: 1rem;
+  position: absolute;
+}
+.page-title-center{
+  top: 45%;
+  left:45%;
+  display:inline-block;
+  position:absolute;
+  margin:auto;
+  font-weight:700;
+  font-size: 1rem;
+  position: absolute;
+}
+.courses{
+  margin-top: 3rem;
+  padding-bottom: 3rem;
+}
+.course-type-ft{
+  padding-top:3rem;
+  background-color: #F2AA4C;
+  padding-bottom:2rem;
+}
+.course-type-d{
+  padding-top:3rem;
+  background-color: #616247;
+  padding-bottom:2rem;
+}
+.course-type-ad{
+  padding-top:3rem;
+  background-color: #A13941;
+  padding-bottom:2rem;
+}
+.courses a{
+  margin-top: 1rem;
+  padding-left: 1rem;
+}
+.creativity{
+  padding-top: 5rem;
+}
+.creativity p{
+  padding-top: 1rem;
+}
+.about{
+  padding-top:2rem;
+}
+.side-menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.side-menu ul li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.side-menu a {
+    display: block;
+    border-left: 4px solid #eeeeee;
+    padding-top: 0.556rem;
+    padding-bottom: 0.556rem;
+    padding-left: 0.833rem;
+    color: #222222;
+    font-weight: bold;
+}
+.side-menu .active a {
+    border-left: 4px solid #e53329;
+    color: #e53329;
+}
+.list-group-item{
+  border: 0px;
+}
+.about-overview{
+  float:left;
+}
+.visionMission{
+  padding-top: 2.5rem;
+}
+.services{
+  text-align: center
+}
+.icon{
+  width:90px;
+  height:90px;
+  text-align: center;
+}
+
+.services h3 a {
+  color: #000;
+  font-weight: 400;
+  font-size:1.5rem;
+}
+.services .icon {
+  width: 90px;
+  height: 90px;
+}
+.services .desc{
+  padding-top: 2rem;
+}
+.services .desc p{
+  padding-top:1rem;
+}
+.team{
+  padding-top: 3rem;
+  background-color:#f3f3f3;
+  color: #000;
+}
+.team-head{
+  padding-top: 1rem;
+  color:#000;
+  text-align: center;
+}
+.team-desc{
+  padding-top: 1rem;
+}
+.prod-desc{
+  padding-left:5rem;
+}
+.prod-desc-left{
+  padding-left: 0.5rem;
+}
+.prod-desc h5{
+  padding-top: 1rem;
+}
+.products{
+  padding-top: 1rem;
+}
+.prod-icon{
+  height:12.5rem;
+}
+.prod-row{
+  padding-top: 4rem;
+}
+.prod-desc p{
+  padding-top: 0.5rem;
+}
+.prod-desc-left p{
+  padding-top: 0.5rem;
+}
+.products .list-group-item{
+  padding-left: 5rem;
+}
