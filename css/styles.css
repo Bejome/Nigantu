@@ -80,7 +80,7 @@ body {
   padding-top: 1rem;
 }
 .about{
-  padding-top:2rem;
+  padding-top:3rem;
 }
 .side-menu ul {
     list-style: none;
@@ -108,11 +108,10 @@ body {
 .list-group-item{
   border: 0px;
 }
-.about-overview{
-  float:left;
-}
 .visionMission{
+  margin-top: 3rem;
   padding-top: 2.5rem;
+  background-color:#f3f3f3;
 }
 .services{
   text-align: center
@@ -139,9 +138,10 @@ body {
   padding-top:1rem;
 }
 .team{
+  margin-top:3rem;
   padding-top: 3rem;
-  background-color:#f3f3f3;
   color: #000;
+  padding-bottom: 3rem;
 }
 .team-head{
   padding-top: 1rem;
@@ -177,4 +177,37 @@ body {
 }
 .products .list-group-item{
   padding-left: 5rem;
+}
+.footer{
+  background-color: #1C1C1B;
+  color: #fff;
+  padding-bottom: 3rem;
+  margin-top: 2rem;
+  padding-left: 4rem;
+}
+.footer .list-group .list-group-item{
+  background-color: #1C1C1B;
+  color: #fff;
+}
+.footer h6{
+  padding-top: 3rem;
+}
+.footer a{
+  color: rgba(255, 255, 255, 0.5);
+}
+.footer li{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.footer img{
+  padding-top: 3rem;
+}
+.contact{
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+.fav-icon{
+  margin-right:1rem;
+  opacity: 0.5;
 }
